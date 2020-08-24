@@ -1,2 +1,4 @@
 hello world
 working to update fast farward
+
+updated for merge commit
