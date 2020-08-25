@@ -5,3 +5,4 @@ updated for merge commit
 working in rebase
 
 commit for rebase from master
+commit for rebase in master from Smartgit
